@@ -1,0 +1,11 @@
+// NPM (node package manager)
+- it allows us to download and reuse of the dependency or package or module
+- its nothing but the folder with the .js files which will required in our project
+
+// npm -global command, comes with node
+// npm --version
+
+// local dependency - use it only in this particular project
+// npm install -g <package name>
+// sudo install -g <package name> // in mac
+
